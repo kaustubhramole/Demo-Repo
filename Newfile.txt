@@ -1,1 +1,2 @@
 I am Learning git anc this is my first textfile for the Git. 
+Hello Newfile
